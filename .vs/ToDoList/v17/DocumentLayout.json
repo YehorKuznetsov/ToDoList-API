@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|c:\\users\\egork\\source\\repos\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\todolist\\todolist\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|c:\\users\\egork\\source\\repos\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\todolist\\todolist\\dtos\\tasktodocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\dtos\\tasktodocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|c:\\users\\egork\\source\\repos\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\todolist\\todolist\\models\\tasktodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\tasktodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|c:\\users\\egork\\source\\repos\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\todolist\\todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|c:\\users\\egork\\source\\repos\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\todolist\\todolist\\dtos\\tasktodoreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\dtos\\tasktodoreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|c:\\users\\egork\\source\\repos\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\todolist\\todolist\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|c:\\users\\egork\\source\\repos\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\todolist\\todolist\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|c:\\users\\egork\\source\\repos\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|c:\\users\\egork\\source\\repos\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\todolist\\todolist\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|c:\\users\\egork\\source\\repos\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\todolist\\todolist\\data\\todolistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\data\\todolistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|c:\\users\\egork\\source\\repos\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|c:\\users\\egork\\source\\repos\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\todolist\\todolist\\migrations\\20250710175205_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2624679E-D559-405E-B622-08B500B7B9F9}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\migrations\\20250710175205_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\.gitignore",
+              "RelativeDocumentMoniker": "ToDoList\\.gitignore",
+              "ToolTip": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\.gitignore",
+              "RelativeToolTip": "ToDoList\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-12T18:34:07.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToDoListContext.cs",
+              "DocumentMoniker": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Data\\ToDoListContext.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Data\\ToDoListContext.cs",
+              "ToolTip": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Data\\ToDoListContext.cs",
+              "RelativeToolTip": "ToDoList\\Data\\ToDoListContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:11:59.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskToDoReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\DTOs\\TaskToDoReadDto.cs",
+              "RelativeDocumentMoniker": "ToDoList\\DTOs\\TaskToDoReadDto.cs",
+              "ToolTip": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\DTOs\\TaskToDoReadDto.cs",
+              "RelativeToolTip": "ToDoList\\DTOs\\TaskToDoReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:09:51.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskToDo.cs",
+              "DocumentMoniker": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Models\\TaskToDo.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\TaskToDo.cs",
+              "ToolTip": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Models\\TaskToDo.cs",
+              "RelativeToolTip": "ToDoList\\Models\\TaskToDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:59:57.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:33:41.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskToDoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\DTOs\\TaskToDoCreateDto.cs",
+              "RelativeDocumentMoniker": "ToDoList\\DTOs\\TaskToDoCreateDto.cs",
+              "ToolTip": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\DTOs\\TaskToDoCreateDto.cs",
+              "RelativeToolTip": "ToDoList\\DTOs\\TaskToDoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:08:04.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "ToDoList\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:47:45.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "ToDoList\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwDIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:54:27.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Services\\ToDoService.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Services\\ToDoService.cs",
+              "ToolTip": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Services\\ToDoService.cs",
+              "RelativeToolTip": "ToDoList\\Services\\ToDoService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:02:03.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Interfaces\\IToDoService.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Interfaces\\IToDoService.cs",
+              "ToolTip": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Interfaces\\IToDoService.cs",
+              "RelativeToolTip": "ToDoList\\Interfaces\\IToDoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:55:59.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250710175205_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Migrations\\20250710175205_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Migrations\\20250710175205_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\Migrations\\20250710175205_InitialCreate.cs",
+              "RelativeToolTip": "ToDoList\\Migrations\\20250710175205_InitialCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:52:05.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoList\\appsettings.json",
+              "ToolTip": "C:\\Users\\egork\\source\\repos\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeToolTip": "ToDoList\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T17:33:04.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
